@@ -1,7 +1,7 @@
 ## Hi there! Welcome to my Github Page 👋
 
 - 🌱 Currently learning Python and Go from [Boot.dev](https://www.boot.dev/u/a_nightails).
-- 🔭 Working on my personal Arch/Hyperland dotfiles.
+- 🔭 Working on a budgeting cli tool, using Go.
 
 <!--
 **Nightails/Nightails** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
